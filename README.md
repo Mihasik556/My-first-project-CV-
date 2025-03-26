@@ -14,3 +14,8 @@ Clone the repository:
 git clone https://github.com/Mihasik556/My-first-project-CV-.git
 ```
 Open index.html in a browser.
+
+-------
+It is a project from the roadmap.sh
+
+URL: [https://roadmap.sh/projects/single-page-cv](https://roadmap.sh/projects/single-page-cv)
