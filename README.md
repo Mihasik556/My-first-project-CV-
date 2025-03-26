@@ -9,7 +9,8 @@ Preview:
 How to launch:
 
 Clone the repository:
+
 ```bash
 git clone https://github.com/Mihasik556/My-first-project-CV-.git
-
+```
 Open index.html in a browser.
