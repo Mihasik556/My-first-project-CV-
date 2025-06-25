@@ -3,7 +3,7 @@ It`s a single-page CV.
 
 -------
 Preview:
-![screenshot](/Images/preview.png)
+
 
 -------
 How to launch:
